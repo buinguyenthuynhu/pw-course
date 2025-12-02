@@ -1,0 +1,7 @@
+# Khởi tạo repo/ thư mục
+git init
+
+# Thao tác với file
+git add <file_name>  # Thêm file vào staging
+git add .       # Thêm tất cả file
+git commit -m "message"  # Tạo commit
